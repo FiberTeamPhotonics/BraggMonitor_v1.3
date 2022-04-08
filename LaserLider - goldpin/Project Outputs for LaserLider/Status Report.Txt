@@ -1,0 +1,34 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [LaserLider.PcbDoc]
+   Generated File[LaserLider.GTO]
+   Generated File[LaserLider.GTP]
+   Generated File[LaserLider.GTS]
+   Generated File[LaserLider.GTL]
+   Generated File[LaserLider.GP1]
+   Generated File[LaserLider.GP2]
+   Generated File[LaserLider.GBL]
+   Generated File[LaserLider.GBS]
+   Generated File[LaserLider.GBP]
+   Generated File[LaserLider.GBO]
+   Generated File[LaserLider.GM1]
+   Generated File[LaserLider.GM2]
+   Generated File[LaserLider.GM5]
+   Generated File[LaserLider.GM20]
+   Generated File[LaserLider.GM21]
+   Generated File[LaserLider.GM23]
+   Generated File[LaserLider.GM24]
+   Generated File[LaserLider.GKO]
+   Generated File[LaserLider.GPT]
+   Generated File[LaserLider.GPB]
+   Generated File[LaserLider.GD1]
+   Generated File[LaserLider.GG1]
+   Generated File[LaserLider.RUL]
+   Generated File[LaserLider.EXTREP]
+   Generated File[LaserLider.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 20:33:01 On 30.03.2022

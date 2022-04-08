@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LaserLider.PcbDoc   29.03.2021  09:35:42
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LaserLider-RoundHoles.TXT
+ASCII SlotHoles File : LaserLider-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             428       PTH        0.00inch (0.00mm)
+T2      13mil (0.33mm)                                            Round             5         PTH        0.00inch (0.00mm)
+T3      18mil (0.45mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T4      20mil (0.5mm)                                             Slot              2         PTH        0.00inch (0.00mm)
+T5      22mil (0.551mm)                                           Round             5         PTH        0.00inch (0.00mm)
+T6      28mil (0.711mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T7      32mil (0.8mm)                                             Round             3         PTH        0.00inch (0.00mm)
+T8      35mil (0.889mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T9      39mil (1.001mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T10     39mil (1.001mm)                                           Slot              3         PTH        0.00inch (0.00mm)
+T11     40mil (1.021mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T12     43mil (1.1mm)                                             Round             14        PTH        0.00inch (0.00mm)
+T13     62mil (1.57mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T14     67mil (1.699mm)                                           Round             15        PTH        0.00inch (0.00mm)
+T15     128mil (3.251mm)                                          Round             2         PTH        0.00inch (0.00mm)
+T16     236mil (5.999mm)                                          Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              506
+
+Total Processing Time (hh:mm:ss) : 00:00:00

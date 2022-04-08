@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [TEC_Laser.PcbDoc]
+   Generated File[TEC_Laser.GTO]
+   Generated File[TEC_Laser.GTP]
+   Generated File[TEC_Laser.GTS]
+   Generated File[TEC_Laser.GTL]
+   Generated File[TEC_Laser.GBL]
+   Generated File[TEC_Laser.GBS]
+   Generated File[TEC_Laser.GBP]
+   Generated File[TEC_Laser.GBO]
+   Generated File[TEC_Laser.GM1]
+   Generated File[TEC_Laser.GKO]
+   Generated File[TEC_Laser.GPT]
+   Generated File[TEC_Laser.GPB]
+   Generated File[TEC_Laser.GD1]
+   Generated File[TEC_Laser.GG1]
+   Generated File[TEC_Laser.RUL]
+   Generated File[TEC_Laser.EXTREP]
+   Generated File[TEC_Laser.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 09:52:30 On 19.03.2022
